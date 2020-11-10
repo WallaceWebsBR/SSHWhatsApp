@@ -7,7 +7,7 @@ SSH for WhatsApp with NodeJS
 => OpenWA installed
 [OpenWA Project](https://github.com/open-wa/wa-automate-nodejs)
 
-=> Linux System Based
+=> Linux-based OS
 
 ## Installation
 Step 1
