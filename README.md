@@ -14,11 +14,11 @@ Step 1
 > npm i --save @open-wa/wa-automate
 
 Step 2
-> wget -O index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/master/index.js
+> wget -O index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/main/index.js
 
 or
 
-> curl -Lo index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/master/index.js
+> curl -Lo index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/main/index.js
 
 ## Usage
 
