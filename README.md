@@ -15,7 +15,9 @@ Step 1
 
 Step 2
 > wget -O index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/master/index.js
+
 or
+
 > curl -Lo index.js https://raw.githubusercontent.com/WallaceWebsBR/sshwhatsapp/master/index.js
 
 ## Usage
