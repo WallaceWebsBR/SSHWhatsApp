@@ -1,4 +1,4 @@
-# DISCLAIMER : This is a a PoC (Proof of Concept), do not use on any whatsapp account that others are aware of, keep in mind that anyone who knows the whatsapp account used can send commands directly to their linux terminal, I will improve the code as soon as possible. Be aware that I am not responsible for any damage, breakdown, catastrophic situation or nuclear attack on your system.
+# DISCLAIMER : This is a PoC (Proof of Concept), do not use on any whatsapp account that others are aware of, keep in mind that anyone who knows the whatsapp account used can send commands directly to their linux terminal, I will improve the code as soon as possible. Be aware that I am not responsible for any damage, breakdown, catastrophic situation or nuclear attack on your system.
 
 # SSH WhatsApp
 SSH for WhatsApp with NodeJS
