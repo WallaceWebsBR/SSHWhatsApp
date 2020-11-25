@@ -5,7 +5,8 @@ wa.create().then(client => start(client));
 
 function start(client) {
   client.onMessage(message => {
-    if (message.body) {
+    if (message.body.indexOf("!")) {
+      message.body.replace("!", "");
          exec(message.body, (error, stdout, stderr) => {
                 if (error){
                 client.sendText(message.from, error.message);
