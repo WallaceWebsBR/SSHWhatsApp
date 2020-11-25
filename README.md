@@ -27,3 +27,5 @@ or
 Scan the QR Code with your phone
 
 Done.
+
+Use ! before text to send commands to terminal
